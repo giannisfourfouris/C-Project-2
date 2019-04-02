@@ -1,0 +1,92 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (neg.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  filter.cpp
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filterlinear.h(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filterlinear.h(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filtergamma.h(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filtergamma.h(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filtergamma.h(39): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filtergamma.h(40): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filtergamma.h(41): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filter.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filter.cpp(65): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filter.cpp(66): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filter.cpp(67): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filter.cpp(69): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filter.cpp(70): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filter.cpp(71): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filter.cpp(145): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filter.cpp(146): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filter.cpp(147): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filter.cpp(149): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filter.cpp(150): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\filter.cpp(151): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\vasiliki\desktop\νέος φάκελος\filter\array.h(280): warning C4018: '<': signed/unsigned mismatch
+  c:\users\vasiliki\desktop\νέος φάκελος\filter\array.h(274): note: while compiling class template member function 'math::Array<math::Vec3<float>> &math::Array<math::Vec3<float>>::operator =(const math::Array<math::Vec3<float>> &)'
+  c:\users\vasiliki\desktop\νέος φάκελος\filter\filter.cpp(200): note: see reference to function template instantiation 'math::Array<math::Vec3<float>> &math::Array<math::Vec3<float>>::operator =(const math::Array<math::Vec3<float>> &)' being compiled
+  c:\users\vasiliki\desktop\νέος φάκελος\filter\image.h(39): note: see reference to class template instantiation 'math::Array<math::Vec3<float>>' being compiled
+  Generating code
+  4 of 447 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  neg.vcxproj -> C:\Users\Vasiliki\Desktop\Νέος φάκελος\filter\Release\filter.exe

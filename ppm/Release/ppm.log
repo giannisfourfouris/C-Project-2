@@ -1,0 +1,3 @@
+﻿  ppm.cpp
+c:\users\vasiliki\desktop\νέος φάκελος\filter\ppm\ppm.cpp(106): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+  ppm.vcxproj -> C:\Users\Vasiliki\Desktop\Νέος φάκελος\filter\ppm\ppm.lib
